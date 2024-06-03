@@ -1,0 +1,6 @@
+[submodule ".\\projects\\gsm-po-c-child-1"]
+	path = .\\projects\\gsm-po-c-child-1
+	url = https://github.com/AlifCitrus/GSM-PoC-Child-1.git
+[submodule ".\\projects\\gsm-po-c-child-2"]
+	path = .\\projects\\gsm-po-c-child-2
+	url = https://github.com/AlifCitrus/GSM-PoC-Child-2.git
